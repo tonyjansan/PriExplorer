@@ -19,6 +19,7 @@
 #include <tchar.h>
 
 // TODO: reference additional headers your program requires here
+#include <ShlObj.h>
 #include <comdef.h>
 #include <gdiplus.h>
 #pragma comment(lib, "gdiplus.lib")
